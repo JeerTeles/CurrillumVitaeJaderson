@@ -1,8 +1,9 @@
 Trocar foto do perfil [ok];
 tira profisão vedendor [ok];
-Trocar email;
+Trocar email [ok];
 Acresentar o curso JS [ok];
 Trocar o curso o periodo do curso Senai;
 Colocar a aminação Atual no curso Unifcas;
 Adicionar o portifolio no projetos;
 colocar curso Angular[ok];
+colocar icone de corrente pra link; 
